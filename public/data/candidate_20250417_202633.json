@@ -1,0 +1,152 @@
+{
+  "interviewee": "candidate",
+  "timestamp": "2025-04-17T20:26:33.203355",
+  "responses": [
+    {
+      "error": "Error code: 400 - {'error': {'message': \"Invalid parameter: 'response_format' of type 'json_object' is not supported with this model.\", 'type': 'invalid_request_error', 'param': 'response_format', 'code': None}}",
+      "question": "Tell me more about yourself and why you're interested in this field.",
+      "answer": "Working in UpGrad\u2019s EdTech environment required me to understand how sociocultural, economic, and technological factors influence learner engagement. A key project involved analyzing user behavior across different regions to improve engagement and accessibility.\n\nUsing SQL queries filtered by location and time zones, I extracted region-specific engagement metrics. My analysis revealed that Southeast Asian learners were most active in early mornings, while Indian learners showed peak activity in the evening. I proposed time-zone-optimized content releases and notification strategies. After implementation, an A/B test showed an 11% increase in module engagement in the experimental group.\n\nIn a separate analysis, I examined video buffering and dropout data. I found that learners from Tier-2 cities experienced 35% more buffering issues and 28% lower completion rates for HD content. I recommended implementing compressed videos and text-based content for low-bandwidth regions. These recommendations led to a 17% improvement in content accessibility.\n\nThis project demonstrated that effective engineering goes beyond technical solutions. By analyzing how regional infrastructure and digital literacy impact user experience, I was able to design data-driven interventions that improved both inclusivity and platform performance. This reinforced my understanding that real-world engineering requires constant consideration of contextual factors that affect how users interact with technology.",
+      "job_field": "UX/UI Design",
+      "timestamp": "2025-04-17T20:26:28.697427",
+      "scores": {
+        "content": 5,
+        "clarity": 5,
+        "technical_accuracy": 5,
+        "confidence": 5,
+        "overall": 5
+      },
+      "feedback": {
+        "strengths": [
+          "Unable to analyze strengths due to error"
+        ],
+        "areas_for_improvement": [
+          "Unable to analyze areas for improvement due to error"
+        ],
+        "missing_elements": [
+          "Unable to analyze missing elements due to error"
+        ]
+      },
+      "skills_demonstrated": [
+        "Technical knowledge",
+        "Communication"
+      ],
+      "skill_levels": {
+        "Technical knowledge": 70,
+        "Communication": 70
+      },
+      "improved_answer": "Unable to generate improved answer due to error."
+    }
+  ],
+  "aggregate_scores": {
+    "overall": 5.0,
+    "content": 5.0,
+    "clarity": 5.0,
+    "confidence": 5.0,
+    "technical_accuracy": 5.0
+  },
+  "skill_assessment": {
+    "assessed_levels": [
+      {
+        "name": "Technical knowledge",
+        "current": 70,
+        "desired": 85
+      },
+      {
+        "name": "Communication",
+        "current": 70,
+        "desired": 85
+      }
+    ],
+    "demonstrated_skills": [
+      {
+        "name": "Technical knowledge",
+        "count": 1
+      },
+      {
+        "name": "Communication",
+        "count": 1
+      }
+    ]
+  },
+  "career_insights": {
+    "careerPaths": [
+      {
+        "name": "UX/UI Designer \u2192 Senior Designer \u2192 Design Lead",
+        "compatibility": 90,
+        "description": "This path focuses on creating exceptional user experiences with growing leadership responsibilities.",
+        "keySkills": [
+          "User Research",
+          "Wireframing",
+          "Prototyping",
+          "User Testing"
+        ]
+      },
+      {
+        "name": "UX Designer \u2192 UX Researcher \u2192 User Experience Director",
+        "compatibility": 82,
+        "description": "This path focuses on deep user understanding and research to guide product development.",
+        "keySkills": [
+          "User Research",
+          "Usability Testing",
+          "Data Analysis",
+          "Persona Development"
+        ]
+      }
+    ],
+    "workEnvironment": [
+      {
+        "name": "Collaborative",
+        "value": 65
+      },
+      {
+        "name": "Autonomous",
+        "value": 59
+      },
+      {
+        "name": "Fast-paced",
+        "value": 65
+      },
+      {
+        "name": "Structured",
+        "value": 55
+      },
+      {
+        "name": "Creative",
+        "value": 77
+      },
+      {
+        "name": "Data-driven",
+        "value": 76
+      }
+    ],
+    "development": [
+      {
+        "area": "Technical Skills",
+        "recommendation": "Enhance specific technical skills relevant to your desired role",
+        "resources": [
+          "Online courses on current technologies",
+          "Technical certification programs",
+          "Hands-on project work"
+        ]
+      },
+      {
+        "area": "Communication",
+        "recommendation": "Strengthen ability to communicate complex ideas clearly",
+        "resources": [
+          "Communication workshops",
+          "Presentation practice",
+          "Technical writing exercises"
+        ]
+      },
+      {
+        "area": "Career Growth",
+        "recommendation": "Build a stronger professional network in your field",
+        "resources": [
+          "Industry meetups and conferences",
+          "Online professional communities",
+          "Informational interviews with leaders"
+        ]
+      }
+    ]
+  }
+}
